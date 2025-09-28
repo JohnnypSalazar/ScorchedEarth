@@ -1,0 +1,17 @@
+site_name: Scorched Earth
+docs_dir: docs
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - content.code.copy
+    - content.code.annotate
+
+nav:
+  - Home: index.md
+  - Complaints:
+      - Manatee Complaint: Complaints/manatee_complaint.md
+  - Exhibits:
+      - Gallery: Exhibits/photo_gallery.md
+  - Assets: SiteAssets/index.md
