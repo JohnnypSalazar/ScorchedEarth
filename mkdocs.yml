@@ -1,5 +1,7 @@
-site_name: Scorched Earth
+site_name: ScorchedEarth
+site_url: https://johnnypsalazar.github.io/ScorchedEarth/
 docs_dir: docs
+
 theme:
   name: material
   features:
@@ -7,11 +9,38 @@ theme:
     - navigation.indexes
     - content.code.copy
     - content.code.annotate
+  palette:
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
 
 nav:
   - Home: index.md
   - Complaints:
       - Manatee Complaint: Complaints/manatee_complaint.md
+      - OCPS HR Complaint: Complaints/OCPS_HR_COMPLAINT.md
+      - ADA Civil Rights: Complaints/ADA_Civil_Rights_Complaint.md
+      - Formal Notice OCPS: Complaints/FORMAL_NOTICE_OCPS.md
+      - EEOC Complaint: Complaints/EEOC_Complaint.md
+      - State Rep Oversight: Complaints/State_Rep_Legislative_Oversight_Request.md
   - Exhibits:
-      - Gallery: Exhibits/photo_gallery.md
+      - Photo Gallery: Exhibits/photo_gallery.md
+  - FOIA:
+      - Florida Sunshine Template: FOIA/florida_sunshine_foia_template.md
+  - Methodology:
+      - Overview: Methodology/00_Overview.md
+      - AI Workflow: Methodology/01_AI_Workflow.md
+      - Digital Chain of Custody: Methodology/02_Digital_ChainOfCustody.md
+      - FOIA & Sunshine: Methodology/03_FOIA_And_Sunshine_Tactics.md
+      - Trauma as Asset: Methodology/04_Trauma_And_Dissociation_As_Asset.md
+  - Press Pack:
+      - Overview: Press/WATCHDOG_PRESSPACK_OVERVIEW.md
+      - Layout: Press/Press_Pack_Evidence_Site_Layout.md
+  - Legal Action:
+      - Sworn Affidavit: ProSe_Lawsuit/Final_Sworn_Affidavit.md
   - Assets: SiteAssets/index.md
