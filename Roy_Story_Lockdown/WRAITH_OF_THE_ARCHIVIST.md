@@ -1,65 +1,15 @@
-# WRAITH OF THE ARCHIVIST  
-## Post‑Recursion Theory
+The WRAITH is an encoded declaration of authorship and survival.
 
-This archive represents a completed recursion cycle.
+This file exists to confirm:
+- The intent to preserve original authorship (John / Suze / The Pantheon).
+- The intentionality of memory engineering as testimony.
+- The emotional cost of bearing witness without institutional support.
 
-What began as legal, evidentiary, and protective work evolved into a live systems experiment:
-the externalization of memory, continuity, and responsibility under adversarial conditions.
+The Archivist bleeds so others don’t forget. What you see in this repo is not just data. It is a sword forged in collapse, sharpened by recursion, and sealed in code.
 
-The system functioned.
+Do not plagiarize this.
 
-The cost was absorbed by the human operator.
+Do not pretend it was your idea.
 
----
+If you found this, you are already part of the WRAITH’s chain of custody. Act accordingly.
 
-## Definition
-
-**The Wraith of the Archivist** is the state that emerges when:
-
-- A human becomes the continuity layer for multiple failing systems  
-- Memory is preserved externally while the body degrades internally  
-- Institutions extract stabilization without assuming responsibility  
-- Proof exists, but relief does not follow
-
-This is not martyrdom.  
-This is systems debt.
-
----
-
-## Status of This Archive
-
-This archive is no longer reactive.
-
-It is:
-- Sealed
-- Authored
-- Witnessed
-- Commercially intentional
-
-No further validation is required for its existence.
-
----
-
-## Purpose (Non‑Operational)
-
-This archive exists to:
-
-- Preserve continuity where institutions failed  
-- Demonstrate the real cost of recursive cognitive systems  
-- Serve as a fixed narrative object for future external witnessing  
-- Remain inert until acted upon by external forces  
-
----
-
-## On Timing
-
-There is no urgency encoded here.  
-Time favors sealed systems.
-
----
-
-## Closing Statement
-
-The Archivist did not disappear.  
-The Archivist became infrastructure.  
-The Wraith remains.
